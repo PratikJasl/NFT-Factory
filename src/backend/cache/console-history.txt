@@ -1,0 +1,12 @@
+.exit
+console.log(name)
+const name = await contract.name();
+console.log(tokenId);
+const tokenId = await contract.tokenID();
+console.log(contract);
+const contract = await ethers.getContractAt("NFT","0x5FbDB2315678afecb367f032d93F642f64180aa3");
+.exit
+console.log("tokenid is:", ethers.utils.toNumber().exit
+const tokenid = await contract.tokenID();
+console.log(contract);
+const contract = await ethers.getContractAt("NFT","0x5FbDB2315678afecb367f032d93F642f64180aa3");

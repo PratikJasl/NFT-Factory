@@ -1,0 +1,14 @@
+nav.bg-body-tertiary{
+  display: flex;
+  justify-content: space-around;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+div#root{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+div.spinner{
+  display: flex;
+}
